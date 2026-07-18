@@ -1,58 +1,114 @@
-<h1 align="center">Hi 👋 I'm Girish Fedram</h1>
+<h1 align="center">Hi 👋, I'm Girish Fedram</h1>
 
 <h3 align="center">
-AI Infrastructure Engineer | Backend Architect | Enterprise LLM Platforms
+AI Infrastructure Engineer • Backend Architect • Enterprise LLM Platforms
 </h3>
 
 <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Enterprise+AI+Platforms;Production+LLM+Infrastructure;Kubernetes+%7C+vLLM+%7C+LiteLLM;Python+Backend+Engineer;Distributed+Systems+%7C+Cloud+Native" />
+</p>
 
-Building scalable AI platforms, distributed backend systems and cloud-native infrastructure.
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=girishf15&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 🔭 AI Infrastructure Engineer based in Abu Dhabi 🇦🇪
-- 🤖 Building Enterprise LLM Platforms
-- ⚡ Deploying vLLM & LiteLLM
-- ☸ Kubernetes & Docker
-- 🐍 Python Backend
-- 🏗 Distributed Systems
-- 📊 Grafana & Prometheus
-- 🗄 PostgreSQL | MongoDB | Redis
+I'm a Senior Backend Engineer based in **Abu Dhabi, UAE**, specializing in **AI Infrastructure**, **Enterprise LLM Platforms**, and **Cloud Native Backend Systems**.
+
+Over the last few years I've focused on designing and deploying production-grade AI solutions including:
+
+- 🤖 Enterprise LLM Platforms
+- 🧠 Retrieval Augmented Generation (RAG)
+- ⚡ Agentic AI Workflows
+- ☸ Kubernetes GPU Deployments
+- 🚀 Distributed Backend Systems
+- 🐳 Docker & Cloud Native Infrastructure
+- 📊 Monitoring & Observability
+- 🔄 High Availability Platforms
 
 ---
 
-# 🌟 Current Focus
+# 🌱 Currently Working On
 
-- Enterprise LLM Platforms
-- RAG Systems
+- Enterprise AI Platform
+- Production vLLM Deployments
+- LiteLLM Gateway
+- Multi-GPU Inference
+- AI Workflow Automation
+- Kubernetes Infrastructure
+- High Availability Architecture
+
+---
+
+# 🛠 Technology Stack
+
+### AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch"/>
+</p>
+
+- vLLM
+- Ollama
+- LangChain
+- RAG
 - Agentic AI
-- Kubernetes
-- GPU Clusters
-- AI Automation
-- High Availability
-- Cloud Operations
+- Prompt Engineering
+- OCR
+- Computer Vision
 
 ---
 
-# 🛠 Tech Stack
+### Backend
 
-<p align="center">
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,docker,kubernetes,linux,git,github,gitlab,postgres,mongodb,redis,grafana,prometheus,vscode"/>
+- REST APIs
+- Microservices
+- Kafka
+- Async Python
 
+---
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,git,github,gitlab"/>
+</p>
+
+- Huawei Cloud
+- Docker Swarm
+- CI/CD
+- HA Deployments
+
+---
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql"/>
 </p>
 
 ---
 
-# 📈 GitHub Stats
+### Monitoring
+
+<p>
+<img src="https://skillicons.dev/icons?i=grafana,prometheus"/>
+</p>
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=girishf15&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=girishf15&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=girishf15&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -70,7 +126,7 @@ Building scalable AI platforms, distributed backend systems and cloud-native inf
 
 ---
 
-# 📊 Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -90,7 +146,35 @@ Building scalable AI platforms, distributed backend systems and cloud-native inf
 
 ---
 
-# 📫 Connect
+# 💼 Areas of Expertise
 
-- 💼 LinkedIn: https://linkedin.com/in/girish-fedram
-- 📧 girishfedram@gmail.com
+- Enterprise AI Platforms
+- Large Language Models
+- Kubernetes
+- Distributed Systems
+- Cloud Native Development
+- Backend Architecture
+- Python Development
+- High Availability
+- GPU Infrastructure
+- Monitoring & Observability
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/girish-fedram">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:girishfedram@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+⭐ *Always interested in building scalable AI platforms, distributed backend systems, and production-ready infrastructure.*
