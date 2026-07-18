@@ -106,12 +106,12 @@ Over the last few years I've focused on designing and deploying production-grade
 
 # 📊 GitHub Statistics
 
+
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=girishf15&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=girishf15&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api?username=girishf15&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" />
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=girishf15&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
