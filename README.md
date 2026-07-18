@@ -145,6 +145,12 @@ Over the last few years I've focused on designing and deploying production-grade
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/girishf15/girishf15/output/github-contribution-grid-snake-dark.svg">
+</p>
+---
 
 # 💼 Areas of Expertise
 
