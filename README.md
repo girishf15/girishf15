@@ -104,18 +104,6 @@ Over the last few years I've focused on designing and deploying production-grade
 
 ---
 
-# 📊 GitHub Statistics
-
-
-<p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=girishf15&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" />
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=girishf15&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -131,16 +119,6 @@ Over the last few years I've focused on designing and deploying production-grade
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=girishf15&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=girishf15&theme=tokyonight&row=2&column=4&no-frame=true"/>
 
 </p>
 
